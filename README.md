@@ -1,89 +1,81 @@
 <h1 align="center">🌷 Priya Ghadge 🌷</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=3000&pause=1000&color=F4A6B8&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+💻;Soft+aesthetic+%2C+strong+logic+✨;Building+useful+web+applications+🌸" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Explorer;Clean+Code+Lover&center=true&width=500&height=45&color=FF79C6">
 </p>
 
+<h3 align="center">💖 Building aesthetic, meaningful & intelligent web experiences 💖</h3>
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FADADD&height=100&section=header"/>
+  <img src="https://img.shields.io/badge/Code-Lover-FF79C6?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web-BD93F9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vibe-Clean%20%26%20Aesthetic-FF79C6?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🧸 About Me
-
-🌸 Full Stack Developer who enjoys building *clean & meaningful applications*
-💗 Strong in teamwork, communication & problem-solving
-✨ Currently exploring *AI-powered systems & modern web tech*
+💗 Full Stack Developer who enjoys building clean & meaningful applications  
+🌸 Strong in teamwork, communication & problem-solving  
+✨ Exploring AI-powered systems & modern web tech  
 
 ---
 
 ## 🎀 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,express,mongodb,postgres,php,python,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github&theme=dark"/>
 </p>
 
 ---
 
 ## 🍰 Experience
+💼 <b>Web Developer Intern — Sanity Technologies Pvt. Ltd, Pune</b>
 
-*💼 Web Developer Intern — Sanity Technologies Pvt. Ltd, Pune*
-
-🧁 Built responsive user interfaces
-🧁 Worked with backend logic (PHP, MySQL)
-🧁 Implemented authentication & CRUD systems
-🧁 Optimized and improved company website
+🧁 Built responsive user interfaces  
+🧁 Worked with backend logic (PHP, MySQL)  
+🧁 Implemented authentication & CRUD systems  
+🧁 Optimized and improved company website  
 
 ---
 
 ## 🌼 Projects
 
-🌷 *Voice-to-Text Search Application*
+🌷 <b>Voice-to-Text Search Application</b>  
+🎤 Converts speech → text & fetches results  
 
-> Converts spoken input into text & fetches relevant results
+🌷 <b>Soft Skill Training Management System</b>  
+📊 Tracks communication, teamwork & leadership  
 
-🌷 *Soft Skill Training Management System*
-
-> Tracks student communication, teamwork & leadership skills
-
-🌷 *AI Academic Dashboard (WIP)*
-
-> Data-driven system for analyzing student performance
+🌷 <b>AI Academic Dashboard (WIP)</b>  
+🤖 Smart system for analyzing student performance  
 
 ---
 
-## 🌸 GitHub Garden
-
+## 🌸 GitHub Glow
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HER_USERNAME&show_icons=true&theme=rose_pine&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HER_USERNAME&layout=compact&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&title_color=FF79C6&icon_color=FF79C6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&ring=FF79C6&fire=FF79C6"/>
 </p>
 
 ---
 
-## 🧁 Currently Growing
-
-🌱 Full Stack Development
-🌱 AI + Smart Systems
-🌱 Writing clean, scalable code
+## 🌱 Currently Growing
+🌱 Full Stack Development  
+🌱 AI + Smart Systems  
+🌱 Writing clean, scalable code  
 
 ---
 
 ## 💌 Let's Connect
-
 <p align="center">
-  <a href="mailto:priyaghadge34@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F8C8DC?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/priya-ghadge-ab7286256/">
-    <img src="https://img.shields.io/badge/LinkedIn-E6B7E6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="your-linkedin-link"><img src="https://img.shields.io/badge/LinkedIn-FF79C6?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-BD93F9?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&height=120&section=footer"/>
+  💖 <i>Design. Code. Evolve.</i> 💖
 </p>
