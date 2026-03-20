@@ -55,7 +55,7 @@
 
 ## 🌸 GitHub Glow
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&title_color=FF79C6&icon_color=FF79C6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyaghadge34&show_icons=true&theme=dracula&title_color=FF79C6&icon_color=FF79C6"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&ring=FF79C6&fire=FF79C6"/>
 </p>
 
